@@ -26,6 +26,9 @@ Data Source: [OddsShark.com](https://www.oddsshark.com/nhl/database)
 
 ![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/Regression%202.png)
 
+
+![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/IP%20vs%20Actual%20Odds%20Graph.png)
+
 ## Business Answer
 
 
