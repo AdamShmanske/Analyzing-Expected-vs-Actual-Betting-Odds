@@ -29,10 +29,11 @@ Below is the first linear regression performed comparing home team wins, home te
 
 ![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/Regression%201.png)
 
-Below is the second linear regression performed comparing home team wins, and home team betting odds.
+Below is the second linear regression performed comparing home team wins, and home team betting odds.  This regression still has a very low r-squared value.  However, the p-value for the implied probability is very low at 0.00275.  This means that the implied probability factor is a very accurate indicator of the home team winning or losing.  The intercept has a coefficient of -0.058, and a p-value of 0.77.  This is a high p-value, and likely most of the error comes from the very low winning percentages on the graph (such as less than 5% since a team cannot have a negative winning percentage).  The coefficient for the implied probability factor is 1.04.  This yields a linear regression formula of -0.058 + (1.04 x Implied Probability).  While this is very difficult to conceptualize, a visual display of this data is much easier to understand.
 
 ![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/Regression%202.png)
 
+The graph below is a scatter plot comparing perfect odds, expected odds, and the true odds that our linear regression formula estimates. The X-axis shows implied winning odds.  In an ideal world, if you have a 50% chance of winning a bet through odds (see +100 example above), you should win the bet 50% of the time.  This is represented by the blue points on this graph.
 
 ![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/IP%20vs%20Actual%20Odds%20Graph.png)
 
