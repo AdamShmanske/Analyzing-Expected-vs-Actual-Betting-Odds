@@ -21,6 +21,11 @@ Data Source: [OddsShark.com](https://www.oddsshark.com/nhl/database)
 ## Data Question and Graphical Answer
 ### How hard is it for a professional sports better to consistently make a profit off of the sportsbook's betting odds?
 
+Using Microsoft Excel's data analyis tool, a linear regression model will be created to measure the correlation between different variables and a home team win.  Home team win will be in the Y input, and home team betting odds and over/under hitting will be in the x input.
+
+It is important to note (for those unfamiliar with sports betting) what exactly a betting odd means.  Betting odds of +100 
+
+Below is the first regression performed comparing home team wins, home team betting odds, and over/under hitting.  This regression analysis has a very low R squared value of 0.03.  When looking into the two variables,
 
 ![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/Regression%201.png)
 
