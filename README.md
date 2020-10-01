@@ -42,4 +42,4 @@ While the data has been analyzed and multiple linear regression models have been
 
 
 ## Excel Directions
-Detailed instructions and all calculations performed in this project can be found by clicking this link.
+Detailed instructions and all calculations performed in this project can be found by clicking [this link.](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/NHL%20Sports%20Betting%20Analysis%20and%20Excel%20Instructions.xlsx)
