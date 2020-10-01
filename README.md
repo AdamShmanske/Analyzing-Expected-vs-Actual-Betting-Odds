@@ -16,11 +16,8 @@ Data Source: [OddsShark.com](https://www.oddsshark.com/nhl/database)
 - OddsShark is a publicly available sports betting database.  This database provides up to 30 games worth of data at a time for an available team.  240 datapoints were downloaded from teams in the Metropolitan Division of the NHL (30 games for each team) in order to create this project.  This data source provided game score, winning betting odds, home and away team, and over/under betting odds.  This data was further seperated using tables into Home Team Wins?, Home Team Betting Odds, and Over Wins in order to analyze the data.
 
 
-
-
-
-
 ## Data Question and Graphical Answer
+### How hard is it for a professional sports better to consistently make a profit off of the sportsbook's betting odds?
 
 
 
