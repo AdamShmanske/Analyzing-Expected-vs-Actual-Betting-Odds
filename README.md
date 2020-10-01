@@ -23,7 +23,7 @@ Data Source: [OddsShark.com](https://www.oddsshark.com/nhl/database)
 
 Using Microsoft Excel's data analyis tool, a linear regression model will be created to measure the correlation between different variables and a home team win.  Home team win will be in the Y input, and home team betting odds and over/under hitting will be in the x input.
 
-It is important to note (for those unfamiliar with sports betting) what exactly a betting odd means.  Betting odds of +100 
+It is important to note (for those unfamiliar with sports betting) what exactly a betting odd means.  Betting odds of +100 on a $5 bet means that you either win the bet (gaining $5) or lose the bet (losing your $5 you put in).  In this scenario, the expected values are either $0 or $10, and to have a net expected value on this bet this must mean that both winning and losing have an equal chance of occurring ( (10+0) / 2 ).  Thus, for a +100 bet, the implied probability of this bet hitting (if Sportsbooks gave perfectly fair odds and did not take a cut) is exactly 50%.  A more detailed explanation of how to calculate implied probability for different betting odds is provided in the excel directions (located at the bottom of this repository).
 
 Below is the first regression performed comparing home team wins, home team betting odds, and over/under hitting.  This regression analysis has a very low R squared value of 0.03.  When looking into the two variables,
 
