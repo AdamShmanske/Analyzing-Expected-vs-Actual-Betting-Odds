@@ -38,7 +38,7 @@ The graph below is a scatter plot comparing perfect odds, expected odds, and the
 ![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/IP%20vs%20Actual%20Odds%20Graph.png)
 
 ## Business Answer
-While the data has been analyzed and multiple linear regression models have been performed, you may be wondering in simple terms how this answers the question "How hard is it for a professional sports better to consistently make a profit off of the sportsbook's betting odds?"  While it is hard to quantify an exact answer, the answer to this question is: **Very Hard**.  Between expected winning odds of 5% and 95%, your true winning odds (as calculated by winning percentages of raw data) is between 2% and 6% lower than your expected winning odds.
+While the data has been analyzed and multiple linear regression models have been performed, you may be wondering in simple terms how this answers the question "How hard is it for a professional sports better to consistently make a profit off of the sportsbook's betting odds?"  While it is hard to quantify an exact answer, the answer to this question is: **Very Hard**.  Between expected winning odds of 5% and 95%, your true winning odds (as calculated by winning percentages of raw data) is between [2% and 6%](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/NHL%20Sports%20Betting%20Analysis%20and%20Excel%20Instructions.xlsx) lower than your expected winning odds.
 
 
 ## Excel Directions
