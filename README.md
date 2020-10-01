@@ -20,7 +20,7 @@ Data Source: [OddsShark.com](https://www.oddsshark.com/nhl/database)
 ### How hard is it for a professional sports better to consistently make a profit off of the sportsbook's betting odds?
 
 
-
+![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/Regression%201.png)
 
 
 ## Business Answer
