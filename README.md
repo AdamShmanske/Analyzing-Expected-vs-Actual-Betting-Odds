@@ -25,11 +25,11 @@ Using Microsoft Excel's data analyis tool, a linear regression model will be cre
 
 It is important to note (for those unfamiliar with sports betting) what exactly a betting odd means.  Betting odds of +100 on a $5 bet means that you either win the bet (gaining $5) or lose the bet (losing your $5 you put in).  In this scenario, the expected values are either $0 or $10, and to have a net expected value on this bet this must mean that both winning and losing have an equal chance of occurring ( (10+0) / 2 ).  Thus, for a +100 bet, the implied probability of this bet hitting (if Sportsbooks gave perfectly fair odds and did not take a cut) is exactly 50%.  A more detailed explanation of how to calculate implied probability for different betting odds is provided in the excel directions (located at the bottom of this repository).
 
-Below is the first regression performed comparing home team wins, home team betting odds, and over/under hitting.  This regression analysis has a very low R squared value of 0.03.  When looking into the two variables,
+Below is the first linear regression performed comparing home team wins, home team betting odds, and over/under hitting.  This regression analysis has a very low R squared value of 0.03.  When looking into the two variables, it is clear that Over Hits has a very low relation to the Y variable, with a p-value of 0.55 (far greater than the 0.05 cutoff).  This makes sense, as the over hitting likely has very little relation to the home team winning.  Thus, a new linear regression model was performed using exclusively implied probabiliy odds.
 
 ![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/Regression%201.png)
 
-
+Below is the second linear regression performed comparing home team wins, and home team betting odds.
 
 ![alt text](https://github.com/AdamShmanske/Analyzing-Expected-vs-Actual-Betting-Odds/blob/master/Regression%202.png)
 
