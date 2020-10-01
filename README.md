@@ -1,5 +1,5 @@
 # Analyzing-Expected-vs-Actual-Betting-Odds
-An in depth analysis of implied odds vs the true odds of betting on a sportsbook
+### An in depth analysis of implied odds vs the true odds of betting on a sportsbook
 
 ## Background
 While the Coronavirus Pandemic has affected nearly all aspects of our lives, the impact that this virus will have on state budgets will be felt for years to come.  One of the easiest ways to raise tax revenue is to legalize sports betting, a trend that has been slowly making its way through the United States.  As of now, 18 states have legalized sports betting, 4 more have legalized it and will be operational by the end of 2020, and more states are discussing legalization.  Nearly every state has discussed a sports betting bill, and the need for more tax revenue will accelerate the legalization process in the years to come.
